@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Brecha de RRHH
+=======
+# estudio-brechas-rrhh
+>>>>>>> d70ee007db15b4d7f7f78ee44393e4dc1b5219f9
 
 
 
@@ -15,14 +19,22 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
+<<<<<<< HEAD
 git remote add origin https://gitlab.com/sddi/P34-2023.git
+=======
+git remote add origin https://gitlab.com/sddi/estudio-brechas-rrhh.git
+>>>>>>> d70ee007db15b4d7f7f78ee44393e4dc1b5219f9
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
+<<<<<<< HEAD
 - [ ] [Set up project integrations](https://gitlab.com/sddi/P34-2023/-/settings/integrations)
+=======
+- [ ] [Set up project integrations](https://gitlab.com/sddi/estudio-brechas-rrhh/-/settings/integrations)
+>>>>>>> d70ee007db15b4d7f7f78ee44393e4dc1b5219f9
 
 ## Collaborate with your team
 
